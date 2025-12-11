@@ -1,0 +1,7 @@
+C:\Users\I\source\repos\практическая 15\практическая 15\bin\Debug\практическая 15.exe.config
+C:\Users\I\source\repos\практическая 15\практическая 15\bin\Debug\практическая 15.exe
+C:\Users\I\source\repos\практическая 15\практическая 15\bin\Debug\практическая 15.pdb
+C:\Users\I\source\repos\практическая 15\практическая 15\obj\Debug\практическая 15.csproj.AssemblyReference.cache
+C:\Users\I\source\repos\практическая 15\практическая 15\obj\Debug\практическая 15.csproj.CoreCompileInputs.cache
+C:\Users\I\source\repos\практическая 15\практическая 15\obj\Debug\практическая 15.exe
+C:\Users\I\source\repos\практическая 15\практическая 15\obj\Debug\практическая 15.pdb
